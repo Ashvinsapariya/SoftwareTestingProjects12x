@@ -6,16 +6,6 @@
 
 This repository contains a comprehensive **Manual Testing Suite**, including well-structured **Test Plan** and **Test Cases** designed to ensure the quality, reliability, and functionality of the application under test (AUT).
 
-## 📂 Repository Structure
-
-├── Test_Plan/
-│ └── TestPlan_Document.pdf
-├── Test_Cases/
-│ ├── Functional_TestCases.xlsx
-│ ├── Regression_TestCases.xlsx
-│ └── UI_TestCases.xlsx
-└── README.md
-
 
 ## 📋 Project Scope
 
@@ -84,17 +74,6 @@ This repository serves as a resource for:
 - Developers
 - Project Managers
 - Stakeholders
-
-## 🗂️ Folder Structure
-
-├── Test_Plan/
-│ └── TestPlan_Document.pdf
-├── Test_Cases/
-│ ├── Functional_TestCases.xlsx
-│ ├── Regression_TestCases.xlsx
-│ ├── UI_TestCases.xlsx
-│ └── Smoke_TestCases.xlsx
-└── README.md
 
 ## 📝 Test Plan
 
